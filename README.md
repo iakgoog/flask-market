@@ -53,3 +53,10 @@ item1.owner = User.query.filter_by(username='jsc').first()
 db.session.add(item1)
 db.session.commit()
 ```
+
+```
+P8
+pip install flask-wtf⏎
+pip install wtforms⏎
+
+```
