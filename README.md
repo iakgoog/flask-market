@@ -60,3 +60,8 @@ pip install flask-wtf⏎
 pip install wtforms⏎
 
 ```
+
+```
+P9
+pip install email_validator⏎
+```
